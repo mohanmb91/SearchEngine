@@ -9,7 +9,7 @@
 * Ranking
 
 ##Technology Used:
-### Java, MongoDB (NoSQL), Apache Lucene, JSP, JavaScript, HTML5, bootstrap, Eclipse, Maven.
+* Java, MongoDB (NoSQL), Apache Lucene, JSP, JavaScript, HTML5, bootstrap, Eclipse, Maven.
 
 ##UI:
-###The sophisticated UI design for this project is [here](https://github.com/mohanmb91/SearchEgineUI/)
+* The sophisticated UI design for this project is [here](https://github.com/mohanmb91/SearchEgineUI/)
